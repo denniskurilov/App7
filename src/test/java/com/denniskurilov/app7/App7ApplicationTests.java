@@ -1,0 +1,13 @@
+package com.denniskurilov.app7;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class App7ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
